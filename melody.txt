@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola Safo, como estas?
+=======
+Hola, esta es una practica para editar un doc al mismo tiempo
+>>>>>>> ff9ae75d997adc6686cf1a18a7df5794ad545707
